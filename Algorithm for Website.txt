@@ -1,0 +1,227 @@
+========== HEADER ==========
+.nav__logo
+PrudviRaj
+
+.nav__link
+Home - Skills - Qualification - Services - Projects - Contact
+
+
+========== HOME ==========
+.home__title
+Hi, I’m PrudviRaj <br>
+FullStack Java Developer <br>
+Based In Hyderabad <br>
+
+.home__social
+https://www.linkedin.com/
+https://github.com/
+https://instagram.com/
+
+.home__info-title
+BIOGRAPHY
+CONTACT
+SERVICES
+YEARS OF EXPERIENCE
+COMPLETED PROJECTS
+COMPANIES WORKED
+
+.home__info-description .home__info-number
+Hi, I'm PrudviRaj, FullStack Java Developer.
+Passionate about designing beautiful web
+interfaces. Based in Hyderabad.
+
+Hyderabad,Telangana <br>
+andojuprudviraj04@email.com <br>
++91 8801606280 <br>
+
+FrontEnd Developer <br>
+BackEnd Developer <br>
+Production-Database <br>
+
+08+
+
+24+
+
+07+
+
+
+========== SKILLS ==========
+.section__title
+Skills
+
+.section__subtitle
+My favorite skills
+
+.skills__title
+Frontend Developer 
+BackEnd Developer
+Database Management
+
+.skills__name .skills__subtitle
+HTML
+Intermediate
+
+CSS
+Advanced
+
+JavaScript
+Intermediate
+
+React
+Basic
+
+Git
+Intermediate
+
+
+Node Js
+Advanced
+
+Express Js
+Basic
+
+Java
+Intermediate
+
+Java SpringBoot
+Basic
+
+MySQL
+Intermediate
+
+
+========== QUALIFICATION ==========
+.section__title
+Qualification
+
+.section__subtitle
+Experience & education
+
+.qualification__title
+Education
+Work
+
+
+========== SERVICES ==========
+.section__title
+Services
+
+.section__subtitle
+What i offer
+
+.services__title .services__description
+FrontEnd <br>
+Development
+
+Service that provides the best quality and at 
+the request of the client, with professional 
+work and customer support.
+
+Backend <br>
+Functionalities
+
+Database <br>
+Production
+
+
+========== PROJECTS ==========
+.section__title
+Projects
+
+.section__subtitle
+Most recent work
+
+
+.projects__subtitle .projects__title .projects__button
+display some projects
+
+========== TESTIMONIAL ==========
+.section__title
+Testimonial
+
+.section__subtitle
+My client saying
+
+.testimonial__description .testimonial__name .testimonial__subtitle
+Add Some Testimonals
+
+Abhi Ram
+Client
+
+Seeta Roy
+Client
+
+Mahi Kumar
+Client
+
+
+========== CONTACT ==========
+.section__title
+Contact Me
+
+.section__subtitle
+Get in touch
+
+.contact__title
+Talk to me
+Write me your project
+
+.contact__data-title .contact__data-info .contact__button
+Email
+andojuprudviraj04@email.com
+
+Whatsapp
++91 8801606280
+
+.contact__form-tag | placeholder
+Names
+Write your names
+
+Mail
+Write your email
+
+Project
+Write your project
+
+.contact__button
+Submit
+
+========== EMAIL JS CONTACT ==========
+
+// Check if the field has a value
+	// Add and remove color
+
+	// Show message	
+		Write all the input fields 
+
+// serviceID - templateID - #form - publicKey
+	// Show message and add color
+		Message sent 
+	
+	// Remove message after five seconds
+
+	// Send Error
+		OOPS! SOMETHING HAS FAILED...
+
+// To clear the input field
+========== FOOTER ==========
+.footer__title
+PrudviRaj
+
+<p>
+FullStack Java Developer
+
+.footer__link
+Home
+Skills
+Projects
+
+.footer__social-link
+
+
+.footer__copy
+&#169; Copyright PrudviRaj. All rights reserved
+
+
+
+
